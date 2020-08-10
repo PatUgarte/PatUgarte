@@ -8,7 +8,10 @@
 👨🏻‍🏫 **Formador de talento digital** en Digital House durante dos años.<br/>
 🤖 Apasionado por la **robótica**, participé y obtuve premios en [competencias a nivel nacional](https://lnr-argentina.com.ar/).<br/>
 
-###### Podes contactarme a través de [LinkedIn](https://www.linkedin.com/in/patugarte/). 
+##### Podes contactarme a través de [LinkedIn](https://www.linkedin.com/in/patugarte/).
+<hr/>
+
+> ### _¡Me gusta la barba larga, la cerveza fría y los lenguajes de programación fuertemente tipados!_
 <!--
 **PatUgarte/PatUgarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
