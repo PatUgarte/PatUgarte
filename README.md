@@ -11,7 +11,7 @@
 ##### Podes contactarme a través de [LinkedIn](https://www.linkedin.com/in/patugarte/).
 <hr/>
 
-> ### _¡Me gusta la barba larga, la cerveza fría y los lenguajes de programación fuertemente tipados!_
+> ### _¡Me gusta la cerveza fría, la barba larga y los lenguajes de programación fuertemente tipados!_
 <!--
 **PatUgarte/PatUgarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
